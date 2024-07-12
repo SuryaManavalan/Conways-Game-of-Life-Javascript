@@ -1,0 +1,102 @@
+{
+    "presentation-mode.configBackup": {
+        "window.zoomLevel": "undefined",
+        "workbench.activityBar.visible": "undefined",
+        "workbench.statusBar.visible": "undefined",
+        "workbench.layoutControl.enabled": "undefined",
+        "workbench.editor.enablePreview": "undefined",
+        "window.menuBarVisibility": "undefined",
+        "workbench.activityBar.location": "undefined",
+        "workbench.layoutControl.type": "undefined",
+        "files.autoSave": "undefined",
+        "editor.minimap.enabled": "undefined",
+        "javascript.updateImportsOnFileMove.enabled": "undefined",
+        "editor.fontSize": "undefined",
+        "apc.menubar.compact": "undefined",
+        "breadcrumbs.filePath": "undefined",
+        "breadcrumbs.enabled": "undefined",
+        "workbench.editor.labelFormat": "undefined",
+        "workbench.iconTheme": "undefined",
+        "symbols.hidesExplorerArrows": "undefined",
+        "window.commandCenter": "undefined",
+        "window.titleBarStyle": "undefined",
+        "editor.glyphMargin": "undefined",
+        "editor.guides.indentation": "undefined",
+        "editor.guides.highlightActiveIndentation": "undefined",
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        },
+        "editor.quickSuggestionsDelay": "undefined",
+        "editor.wordBasedSuggestions": "off",
+        "apc.electron": "undefined",
+        "apc.activityBar": "undefined",
+        "apc.statusBar": "undefined",
+        "apc.header": "undefined",
+        "apc.listRow": "undefined",
+        "apc.titleBar": "undefined",
+        "workbench.editor.showTabs": "single",
+        "editor.scrollbar.horizontalScrollbarSize": "undefined",
+        "editor.scrollbar.verticalScrollbarSize": "undefined",
+        "workbench.editor.autoLockGroups": "undefined",
+        "editor.foldingMaximumRegions": "undefined",
+        "window.title": "undefined"
+    },
+    "editor.wordBasedSuggestions": false,
+    "editor.quickSuggestions": false,
+    "workbench.editor.showTabs": false,
+    "window.zoomLevel": 2,
+    "workbench.statusBar.visible": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.activityBar.location": "hidden",
+    "workbench.layoutControl.type": "menu",
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.fontSize": 15,
+    "apc.menubar.compact": true,
+    "breadcrumbs.filePath": "last",
+    "breadcrumbs.enabled": false,
+    "workbench.editor.labelFormat": "short",
+    "workbench.iconTheme": "symbols",
+    "window.commandCenter": false,
+    "editor.glyphMargin": false,
+    "editor.guides.indentation": false,
+    "editor.guides.highlightActiveIndentation": false,
+    "editor.quickSuggestionsDelay": 10,
+    "apc.electron": {
+        "titleBarStyle": "hidden",
+        "titleBarOverlay": {
+            "color": "#1e2030",
+            "symbolColor": "#eeffffc0",
+            "height": 32
+        },
+        "backgroundColor": "#00000000"
+    },
+    "apc.activityBar": {
+        "position": "bottom",
+        "size": 20
+    },
+    "apc.statusBar": {
+        "position": "editor-bottom",
+        "height": 20,
+        "fontSize": 10
+    },
+    "apc.header": {
+        "height": 25,
+        "fontSize": 11
+    },
+    "apc.listRow": {
+        "height": 19,
+        "fontSize": 11
+    },
+    "editor.scrollbar.horizontalScrollbarSize": 0,
+    "editor.scrollbar.verticalScrollbarSize": 0,
+    "workbench.editor.autoLockGroups": {
+        "mergeEditor.Input": true
+    },
+    "editor.foldingMaximumRegions": 50000,
+    "window.title": "${rootName}"
+}
